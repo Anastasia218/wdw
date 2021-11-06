@@ -3,4 +3,4 @@ project(probnik)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(probnik main.cpp)
+add_executable(probnik main.cpp newProbnik.h)
